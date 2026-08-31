@@ -1,16 +1,32 @@
-## Hi there 👋
+# Buenas buenasss, soy Miguel
 
-<!--
-**TW3NZ/TW3NZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería de Sistemas interesado en el
+desarrollo de software y en seguir mejorando mis habilidades
+en programación, inteligencia artificial y mucho más.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías y herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 C++
+- 🗄️ SQL
+- ☕ Java
+- 🐍 Python
+- 🎯 Dart & Flutter
+- 🔧 Git & GitHub
+
+## 📚 Actualmente aprendiendo
+
+- Programación Orientada a Objetos
+- Estructuras de datos
+- Lógica de programación
+- Desarrollo de proyectos
+
+## 🎯 Sobre mí
+
+Me gusta aprender y descubrir cosas nuevas, especialmente
+si tienen que ver con la tecnología. Me interesa seguir
+experimentando con diferentes herramientas y lenguajes
+mientras desarrollo mis propios proyectos.
+
+---
+
+## 📊 GitHub Stats
