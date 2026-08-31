@@ -1,4 +1,4 @@
-# Buenas buenasss, soy Miguel :b
+# Buenas buenasss, soy Migue :b
 
 Soy estudiante de Ingeniería de Sistemas interesado en el
 desarrollo de software y en seguir mejorando mis habilidades
