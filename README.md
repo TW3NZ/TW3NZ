@@ -1,5 +1,4 @@
-![TW3NZ Banner](./c9bbc2bd1-d033-4273-9517-cf938f7d5c09-2.png
-)
+![TW3NZ Banner](./banner.png)
 # Buenas buenasss, soy Migue :b
 
 Soy estudiante de Ingeniería de Sistemas interesado en el
