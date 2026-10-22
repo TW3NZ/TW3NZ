@@ -26,6 +26,12 @@ Aplicación académica desarrollada con Flutter. **En desarrollo:** actualmente 
 
 Proyecto académico de Estructuras de Datos desarrollado en Python. Simula la gestión de pasajeros y rutas urbanas mediante un grafo, una cola y una pila implementados manualmente, e incorpora el algoritmo de Dijkstra para calcular rutas de menor distancia.
 
+## Experiencia académica
+
+### Feria científica universitaria | Mano robótica
+
+Participación en el desarrollo y presentación de un prototipo de mano robótica basado en **Arduino Uno**, como parte de un proyecto colaborativo presentado en una feria científica universitaria.
+
 ## Sobre mí
 
 Me interesa continuar aprendiendo nuevas herramientas y lenguajes, aplicar los conceptos vistos en clase y construir proyectos que reflejen mi evolución en programación.
