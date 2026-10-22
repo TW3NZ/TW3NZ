@@ -1,33 +1,31 @@
-![TW3NZ Banner](./banner.png)
-# Buenas buenasss, soy Migue :b
+![Banner del perfil](./banner.png)
 
-Soy estudiante de Ingeniería de Sistemas interesado en el
-desarrollo de software y en seguir mejorando mis habilidades
-en programación, inteligencia artificial y mucho más.
+# Miguel | TW3NZ
 
-## 🚀 Tecnologías y herramientas
+Estudiante de Ingeniería de Sistemas interesado en el desarrollo de software, las estructuras de datos y la creación de aplicaciones. En este espacio documento proyectos académicos, experimento con distintas tecnologías y comparto mi progreso como desarrollador.
 
-- 💻 C++
-- 🗄️ SQL
-- ☕ Java
-- 🐍 Python
-- 🎯 Dart & Flutter
-- 🔧 Git & GitHub
+## Tecnologías y herramientas
 
-## 📚 Actualmente aprendiendo
+- **Lenguajes:** C++, Java, Python, Dart y SQL.
+- **Desarrollo de aplicaciones:** Flutter.
+- **Control de versiones:** Git y GitHub.
 
-- Programación Orientada a Objetos
-- Estructuras de datos
-- Lógica de programación
-- Desarrollo de proyectos
+## Actualmente aprendiendo
 
-## 🎯 Sobre mí
+- Programación orientada a objetos.
+- Estructuras de datos y algoritmos.
+- Desarrollo de proyectos de software.
 
-Me gusta aprender y descubrir cosas nuevas, especialmente
-si tienen que ver con la tecnología. Me interesa seguir
-experimentando con diferentes herramientas y lenguajes
-mientras desarrollo mis propios proyectos.
+## Proyectos destacados
 
----
+### [Árbol binario de búsqueda (ABB)](https://github.com/TW3NZ/Exposicion-ArbolABB-)
 
-## 📊 GitHub Stats
+Proyecto académico sobre árboles binarios de búsqueda, sus operaciones, el análisis de complejidad temporal y espacial y las simulaciones correspondientes.
+
+### [My Daily Routine](https://github.com/TW3NZ/Proyecto-Desarrollo)
+
+Aplicación académica desarrollada con Flutter. **En desarrollo:** actualmente se trabaja en la maquetación visual y la estructura por capas; la lógica funcional todavía no está implementada.
+
+## Sobre mí
+
+Me interesa continuar aprendiendo nuevas herramientas y lenguajes, aplicar los conceptos vistos en clase y construir proyectos que reflejen mi evolución en programación.
