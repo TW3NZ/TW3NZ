@@ -13,8 +13,8 @@ Estudiante de Ingeniería de Sistemas y de Ciencia de Datos, interesado en el de
 ## Formación e intereses
 
 - **Ingeniería de Sistemas:** quinto semestre.
-- **Ciencia de Datos:** estudiante.
-- **Otros intereses:** desarrollo de software y aplicaciones.
+- **Ciencia de Datos** .
+- **Otros intereses:** Machine Learning , desarrollo de software y aplicaciones.
 
 ## Proyectos destacados
 
