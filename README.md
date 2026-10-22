@@ -18,9 +18,9 @@ Estudiante de Ingeniería de Sistemas interesado en el desarrollo de software, l
 
 ## Proyectos destacados
 
-### [Árbol binario de búsqueda (ABB)](https://github.com/TW3NZ/Exposicion-ArbolABB-)
+### [Simulador de Rutas Urbanas y Gestión de Pasajeros](https://github.com/TW3NZ/structuresproject)
 
-Proyecto académico sobre árboles binarios de búsqueda, sus operaciones, el análisis de complejidad temporal y espacial y las simulaciones correspondientes.
+Proyecto académico de Estructuras de Datos desarrollado en Python. Simula la gestión de pasajeros y rutas urbanas mediante un grafo, una cola y una pila implementados manualmente, e incorpora el algoritmo de Dijkstra para calcular rutas de menor distancia.
 
 ### [My Daily Routine](https://github.com/TW3NZ/Proyecto-Desarrollo)
 
