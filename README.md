@@ -30,7 +30,7 @@ Proyecto académico de Estructuras de Datos desarrollado en Python. Simula la ge
 
 ### Feria científica universitaria | Mano robótica
 
-Participación en el desarrollo y presentación de un prototipo de mano robótica basado en **Arduino Uno**, como parte de un proyecto colaborativo presentado en una feria científica universitaria.
+Participación en el desarrollo y presentación de un prototipo de mano robótica basado en **Arduino Uno**, con **servomotores** e **impresión 3D**, como parte de un proyecto colaborativo presentado en una feria científica universitaria.
 
 ## Sobre mí
 
