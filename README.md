@@ -10,11 +10,11 @@ Estudiante de Ingeniería de Sistemas interesado en el desarrollo de software, l
 - **Desarrollo de aplicaciones:** Flutter.
 - **Control de versiones:** Git y GitHub.
 
-## Actualmente aprendiendo
+## Formación e intereses
 
-- Programación orientada a objetos.
-- Estructuras de datos y algoritmos.
-- Desarrollo de proyectos de software.
+- **Ingeniería de Sistemas:** quinto semestre.
+- **Área de interés:** ciencia de datos.
+- **Otros intereses:** desarrollo de software y aplicaciones.
 
 ## Proyectos destacados
 
