@@ -18,13 +18,13 @@ Estudiante de Ingeniería de Sistemas interesado en el desarrollo de software, l
 
 ## Proyectos destacados
 
-### [Simulador de Rutas Urbanas y Gestión de Pasajeros](https://github.com/TW3NZ/structuresproject)
-
-Proyecto académico de Estructuras de Datos desarrollado en Python. Simula la gestión de pasajeros y rutas urbanas mediante un grafo, una cola y una pila implementados manualmente, e incorpora el algoritmo de Dijkstra para calcular rutas de menor distancia.
-
 ### [My Daily Routine](https://github.com/TW3NZ/Proyecto-Desarrollo)
 
 Aplicación académica desarrollada con Flutter. **En desarrollo:** actualmente se trabaja en la maquetación visual y la estructura por capas; la lógica funcional todavía no está implementada.
+
+### [Simulador de Rutas Urbanas y Gestión de Pasajeros](https://github.com/TW3NZ/structuresproject)
+
+Proyecto académico de Estructuras de Datos desarrollado en Python. Simula la gestión de pasajeros y rutas urbanas mediante un grafo, una cola y una pila implementados manualmente, e incorpora el algoritmo de Dijkstra para calcular rutas de menor distancia.
 
 ## Sobre mí
 
