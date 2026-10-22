@@ -2,7 +2,7 @@
 
 # Miguel | TW3NZ
 
-Estudiante de Ingeniería de Sistemas interesado en el desarrollo de software, las estructuras de datos y la creación de aplicaciones. En este espacio documento proyectos académicos, experimento con distintas tecnologías y comparto mi progreso como desarrollador.
+Estudiante de Ingeniería de Sistemas y de Ciencia de Datos, interesado en el desarrollo de software, el análisis de datos, las estructuras de datos y la creación de aplicaciones. En este espacio documento proyectos académicos, experimento con distintas tecnologías y comparto mi progreso como desarrollador.
 
 ## Tecnologías y herramientas
 
@@ -13,7 +13,7 @@ Estudiante de Ingeniería de Sistemas interesado en el desarrollo de software, l
 ## Formación e intereses
 
 - **Ingeniería de Sistemas:** quinto semestre.
-- **Área de interés:** ciencia de datos.
+- **Ciencia de Datos:** estudiante.
 - **Otros intereses:** desarrollo de software y aplicaciones.
 
 ## Proyectos destacados
